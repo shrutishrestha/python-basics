@@ -1,43 +1,45 @@
-The project consists of basics of python:
+**The project consists of basics of python:**
 It is implemented using jupyter notebook in python 3.7
 
-python object and data structure:
-  Numbers (01-python objects and data structure)
-  Variables
-  Strings
-  String formatting
-  list
-  sets
-  boolean
-  dictionary
-  tuples
-  FilesIO
+**Python Object and Data Structure:**
+      0.  Numbers 
+      1.  Variables
+      2.  Strings
+      3.  String formatting
+      4.  list
+      5.  sets
+      6.  boolean
+      7.  dictionary
+      8.  tuples
+      9.  FilesIO
 
-comparators
+**Comparators**
 
-python statements:
-  List Comprehension
-  Loop
-  Operators
+**Python Statements:**
+      1.  List Comprehension
+      2.  Loop
+      3.  Operators
 
-methods and function:
-  functions
-  global variables
-  lambda functions
+**Methods and Function:**
+      1.  functions
+      2.  global variables
+      3.  lambda functions
 
-Object Oriented Programming
+**Object Oriented Programming**
 
-Modules and Packages
-  Collection
-  Datetime
-  magic timeit
-  python-debugger
-  Regular Expression
-  StringIO
+**Modules and Packages**
+      1.  Collection
+      2.  Datetime
+      3.  magic timeit
+      4.  python-debugger
+      5.  Regular Expression
+      6.  StringIO
 
-error-handling
+**Error-handling**
   Exception-handling
 
-decorators
+**Decorators**
 
-generators
+**Generators**
+
+
